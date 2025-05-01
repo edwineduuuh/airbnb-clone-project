@@ -64,3 +64,44 @@ A user-friendly design is crucial in a booking system because:
 - **Efficiency in Development**: Understanding the mockup's design properties helps the development team replicate the exact layout and style, making the process faster and reducing design discrepancies during implementation.
 - **User Experience**: Consistent design properties create a visually pleasant environment, enhancing user engagement and interaction. Proper color contrast, readable fonts, and intuitive layout contribute to a positive experience.
 
+ ## Project Roles and Responsibilities
+
+- **Project Manager**:
+  - Oversees timeline
+  - Coordinates the team
+  - Manages deliverables
+
+- **Frontend Developers**:
+  - Implements UI components
+  - Ensures responsive design
+
+- **Backend Developers**:
+  - Builds APIs
+  - Manages the database
+  - Implements business logic
+
+- **Designers**:
+  - Creates mockups
+  - Maintains the design system
+  - Ensures UX quality
+
+- **QA/Testers**:
+  - Writes test cases
+  - Performs testing
+  - Reports bugs
+
+- **DevOps Engineers**:
+  - Manages deployment
+  - Maintains CI/CD pipeline
+  - Oversees server infrastructure
+
+- **Product Owner**:
+  - Defines requirements
+  - Prioritizes features
+  - Represents stakeholders
+
+- **Scrum Master**:
+  - Facilitates agile processes
+  - Removes blockers
+  - Organizes meetings
+
