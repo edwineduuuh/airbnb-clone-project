@@ -40,3 +40,27 @@ A user-friendly design is crucial in a booking system because:
 - **Trust and Satisfaction**: A smooth experience builds trust, making users more likely to return and recommend the platform.
 - **Conversion**: A clean, well-designed interface increases conversion rates by making the booking process straightforward and enjoyable.
 - **Accessibility**: Ensures that all users, regardless of device or ability, can navigate the system easily.
+
+### Figma Design Specification
+
+## Color Styles:
+
+- Primary: #FF5A5F
+- Secondary: #008489
+- Background: #FFFFFF
+- Text: #222222
+- Secondary Text: #717171
+  
+## Typography:
+
+- Primary Font: Circular, Medium (500), 16px
+- Headings: Circular, Bold (700), 24px-32px
+- Secondary Text: Circular, Book (400), 14px
+
+### Importance of Identifying Design Properties of a Mockup Design:
+- **Consistency**: Identifying design properties like colors, fonts, and layout ensures the UI is consistent throughout the application, making the user experience seamless and cohesive.
+- **Branding**: Proper use of design properties helps in reinforcing the brand identity, ensuring the application visually aligns with the brand (in this case, AirBnB's branding).
+- **Functionality and Usability**: Knowing the design properties allows the developer to implement the mockup accurately and ensure elements like buttons, links, and forms are easily recognizable and functional for users.
+- **Efficiency in Development**: Understanding the mockup's design properties helps the development team replicate the exact layout and style, making the process faster and reducing design discrepancies during implementation.
+- **User Experience**: Consistent design properties create a visually pleasant environment, enhancing user engagement and interaction. Proper color contrast, readable fonts, and intuitive layout contribute to a positive experience.
+
