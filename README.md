@@ -105,3 +105,24 @@ A user-friendly design is crucial in a booking system because:
   - Removes blockers
   - Organizes meetings
 
+### UI Component Patterns
+
+#### Planned Components:
+
+- **Navbar**:
+  - **Logo**: The AirBnB logo will be placed on the left side of the navbar.
+  - **Search Bar**: A prominent search bar allowing users to input location, check-in, and check-out dates.
+  - **User Navigation**: Links or buttons for user actions like logging in, registering, or accessing the profile.
+  - **Responsive Menu**: A dropdown or hamburger menu for mobile view that contains navigation links and search options.
+
+- **Property Card**:
+  - **Property Image**: A large image representing the property.
+  - **Basic Details**: Display of the property's price, location, and rating.
+  - **Favorite Button**: Allows users to mark the property as a favorite.
+  - **Responsive Layout**: The card will adjust its layout for both desktop and mobile views to maintain a clean look.
+
+- **Footer**:
+  - **Site Links**: Navigation links to important pages such as About, Contact, Help, etc.
+  - **Company Information**: Links to privacy policies, terms of service, etc.
+  - **Social Media Links**: Icons linking to social media platforms such as Facebook, Instagram, Twitter.
+  - **Copyright Information**: The footer will display a copyright notice.
